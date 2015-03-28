@@ -10,29 +10,29 @@
 	<string>GitHub</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>63211294-0B86-4586-8EEA-E872455CACFE</key>
+		<key>39FDF28CC2DF307CAE3E61666F27397841715991</key>
 		<string>https://github.com/ravivooda/github.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>GitHub/GitHub.xcodeproj/project.xcworkspace</string>
+	<string>GitHub/GitHub.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>63211294-0B86-4586-8EEA-E872455CACFE</key>
+		<key>39FDF28CC2DF307CAE3E61666F27397841715991</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/ravivooda/github.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>63211294-0B86-4586-8EEA-E872455CACFE</string>
+	<string>39FDF28CC2DF307CAE3E61666F27397841715991</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>63211294-0B86-4586-8EEA-E872455CACFE</string>
+			<string>39FDF28CC2DF307CAE3E61666F27397841715991</string>
 			<key>IDESourceControlWCCName</key>
 			<string>github</string>
 		</dict>

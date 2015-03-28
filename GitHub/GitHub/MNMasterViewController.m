@@ -43,7 +43,7 @@
     NSString *authStr = [NSString stringWithFormat:@"ravivooda:Mafiandeath1993"];
     NSData *authData = [authStr dataUsingEncoding:NSASCIIStringEncoding];
     NSString *authValue = [NSString stringWithFormat:@"Basic %@", [authData base64EncodedDataWithOptions:NSDataBase64Encoding64CharacterLineLength]];
-    [theRequest setValue:authValue forKey:@"Authorization"];
+    [theRequest setValue:[authValue dataUsingEncoding:NSUTF8StringEncoding] forKey:@"Authorization"];
     
     NSError *error = nil;
     NSData *responseData = [NSURLConnection sendSynchronousRequest:theRequest returningResponse:nil error:&error];
